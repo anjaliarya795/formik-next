@@ -3,13 +3,13 @@ import React from 'react';
 import {useFormik} from "formik";
 
 const initialValues = {
-    email: "",
-    password: "",
-    repeat_password: "",
-    first_name: "",
-    last_name: "",
-    phone: "",
-    company: "",
+    // email: "",
+    // password: "",
+    // repeat_password: "",
+    // first_name: "",
+    // last_name: "",
+    // phone: "",
+    // company: "",
 
 }
 
